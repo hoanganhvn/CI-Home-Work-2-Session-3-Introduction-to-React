@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CI-Home-Work-2-Session-3-Introduction-to-React/static/css/main.e6c13ad2.css",
+    "main.js": "/CI-Home-Work-2-Session-3-Introduction-to-React/static/js/main.220378ab.js",
+    "static/js/787.bc7d429a.chunk.js": "/CI-Home-Work-2-Session-3-Introduction-to-React/static/js/787.bc7d429a.chunk.js",
+    "index.html": "/CI-Home-Work-2-Session-3-Introduction-to-React/index.html",
+    "main.e6c13ad2.css.map": "/CI-Home-Work-2-Session-3-Introduction-to-React/static/css/main.e6c13ad2.css.map",
+    "main.220378ab.js.map": "/CI-Home-Work-2-Session-3-Introduction-to-React/static/js/main.220378ab.js.map",
+    "787.bc7d429a.chunk.js.map": "/CI-Home-Work-2-Session-3-Introduction-to-React/static/js/787.bc7d429a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.220378ab.js"
+  ]
+}
